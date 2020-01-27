@@ -8,5 +8,6 @@ and age >= 69
 ;
 
 # don't run this, because this is just a bullshit
+# this is true cyk write!
 
 
